@@ -205,7 +205,17 @@
 	}
 	.news8 {
 		column-count: 1;
-		margin-left: 125px;
+		margin-left: 19%;
+	}
+	.news {
+		margin-left: 8%;
+		position: relative;
+    		width: 80%;
+    		height: auto;
+   		margin-bottom: 30px;
+	}
+	.newsimg {
+		width: 100%;
 	}
 	.if {
 		font-weight: 400;
