@@ -205,6 +205,7 @@
 	}
 	.news8 {
 		column-count: 1;
+		margin-left: 75px;
 	}
 	.if {
 		font-weight: 400;
