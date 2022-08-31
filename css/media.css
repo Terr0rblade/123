@@ -166,6 +166,7 @@
 		grid-template-rows: repeat(8, 320px);
 	}
 	.text1 {
+		display: flex;
 		margin: 0px;
 		align-items: center;
 		width: 320px;
@@ -283,6 +284,7 @@
 		grid-template-rows: repeat(8, 320px);
 	}
 	.text1 {
+		display: flex;
 		margin: 0px;
 		align-items: center;
 		width: 320px;
@@ -401,6 +403,7 @@
 		grid-template-rows: repeat(8, 320px);
 	}
 	.text1 {
+		display: flex;
 		margin: 0px;
 		align-items: center;
 		width: 320px;
