@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1024px) {
+@media only screen and (min-width: 1024px) {
 	.Services {
 		display: flex;
 		flex-direction: column;
@@ -32,7 +32,7 @@
 		padding: 0px 4%;
 	}
 }
-@media only screen and (max-width: 768px){
+@media only screen and (min-width: 768px){
 	.thgl {
 		font-weight: 400;
 		font-size: 60px;
@@ -73,7 +73,7 @@
 		margin-top: 50px;
 	}
 }
-@media only screen and (max-width: 640px) {
+@media only screen and (min-width: 640px) {
 	.Promo {
 		display: flex;
 		flex-direction: column;
@@ -132,7 +132,7 @@
 		display: none;
 	}
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (min-width: 320px) {
 	.owl-pagination {
 		padding-bottom: 50px
 	}
